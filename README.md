@@ -1,10 +1,10 @@
-<div align='center' class='row'>
-    <h1 class='col-6'>CHRIS HONG</h1>
+<!-- <div align='center' class='row'>
+    <h1 class='col-6'>CHRIS HONG</h1> -->
 
 ![](https://komarev.com/ghpvc/?username=c1008h) 
 [![GitHub followers](https://img.shields.io/github/followers/c1008h.svg?style=social&label=Follow)](https://github.com/c1008h?tab=followers)
 
-</div>
+<!-- </div> -->
 
 ## 👀 About Me
 I am a graduate from a fullstack coding bootcamp from the University of Washington. 
