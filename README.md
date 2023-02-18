@@ -1,16 +1,38 @@
-### Hi there 👋
+<div align='center' class='row'>
+    <h1 class='col-6'>CHRIS HONG</h1>
 
-<!--
-**c1008h/c1008h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=c1008h) 
+[![GitHub followers](https://img.shields.io/github/followers/c1008h.svg?style=social&label=Follow)](https://github.com/c1008h?tab=followers)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👀 About Me
+I am a graduate from a fullstack coding bootcamp from the University of Washington. 
+When I am not coding, I enjoy cuddling my dogs, jamming out at music concerts, weight lifting, and reading. 
+
+<br/>
+I am currently in the market for a frontend and/or backend developer position. If you are hiring or know anyone who is hiring please reach out.
+
+<br>
+
+## 📫 Contact Me
+<a href='mailto:hongchris97@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
+
+<a href='https://www.linkedin.com/in/hong-chris/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+
+<!-- <br/> -->
+
+<!-- ## 💻 I'm Currently Working On
+<ul>
+    <li>Hackathon Projects</li>
+    <li></li>
+</ul> -->
+
+<br/>
+
+## ⚡ Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=c1008h&theme=blueberry_duo)](https://git.io/streak-stats) 
+
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=c1008h&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c1008h&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
