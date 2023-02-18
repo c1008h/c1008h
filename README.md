@@ -7,18 +7,14 @@
 <!-- </div> -->
 
 ## 👀 About Me
-I am a graduate from a fullstack coding bootcamp from the University of Washington. 
-When I am not coding, I enjoy cuddling my dogs, jamming out at music concerts, weight lifting, and reading. 
-
+I am a software developer living in Seattle. Outside of tech, I enjoy cuddling my dogs, jamming out at music concerts, weight lifting, and reading. 
 <br/>
 I am currently in the market for a frontend and/or backend developer position. If you are hiring or know anyone who is hiring please reach out.
+<!-- ## 📫 Lets Connect!
 
-<br>
-
-## 📫 Contact Me
 <a href='mailto:hongchris97@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
 
-<a href='https://www.linkedin.com/in/hong-chris/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+<a href='https://www.linkedin.com/in/hong-chris/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a> -->
 
 <!-- <br/> -->
 
@@ -27,8 +23,6 @@ I am currently in the market for a frontend and/or backend developer position. I
     <li>Hackathon Projects</li>
     <li></li>
 </ul> -->
-
-<br/>
 
 ## ⚡ Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=c1008h&theme=blueberry_duo)](https://git.io/streak-stats) 
