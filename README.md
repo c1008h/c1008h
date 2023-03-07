@@ -16,11 +16,11 @@ I am currently in the market for a software developer position. If you are hirin
 
 <a href='mailto:hongchris97@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
 
-<a href='https://www.linkedin.com/in/hong-chris/' target=”_blank”><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+<a href='https://www.linkedin.com/in/hong-chris/' target=”_blank” rel="noopener noreferrer"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 
 ## 📁 View My Portfolio!
 
-<a href='https://thechrishong.com' target=”_blank”>Portfolio</a>
+<a href='https://thechrishong.com' target=”_blank” rel="noopener noreferrer">Portfolio</a>
 <!-- <br/> -->
 
 <!-- ## 💻 I'm Currently Working On
